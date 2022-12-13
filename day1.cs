@@ -1,7 +1,7 @@
 
-using System;
-using System.IO;
-using System.Collections.Generic;
+using System;//rendszer
+using System.IO;//file olvasás, írás
+using System.Collections.Generic;//lista, lista műveletek
 
 namespace Day1{
     class Day1{
